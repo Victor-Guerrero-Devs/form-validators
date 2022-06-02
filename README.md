@@ -10,3 +10,5 @@ Projects to practice form validations by various means such as vanilla JavaScrip
 
 Uses vanilla Javascript to validate forms. 
 Not actually submitted. 
+
+- the main function is carried without the help of frameowrks
